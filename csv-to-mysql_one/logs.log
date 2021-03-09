@@ -1,0 +1,25 @@
+Sun, 17 Jan 2021 02:55:46 INFO     connection database success
+Sun, 17 Jan 2021 02:55:55 INFO     4's rows loaded into database
+Sun, 17 Jan 2021 02:55:55 INFO     ETL process is complete
+Sun, 17 Jan 2021 03:06:14 INFO     connection database success
+Sun, 17 Jan 2021 03:18:22 INFO     50000's rows loaded into database
+Sun, 17 Jan 2021 03:18:22 INFO     ETL process is complete
+Sat, 23 Jan 2021 03:41:37 ERROR    2005 (HY000): Unknown MySQL server host 'localhost:3306' (11)
+Sat, 23 Jan 2021 03:41:59 INFO     connection database success
+Sun, 24 Jan 2021 02:00:38 ERROR    2003 (HY000): Can't connect to MySQL server on '172.18.0.1' (111)
+Sun, 24 Jan 2021 02:01:23 INFO     connection database success
+Sun, 24 Jan 2021 02:01:28 INFO     4's rows loaded into database
+Sun, 24 Jan 2021 21:08:50 ERROR    2005 (HY000): Unknown MySQL server host 'mysql' (11)
+Sat, 06 Mar 2021 15:56:47 ERROR    umm something wrong with user name or password
+Sat, 06 Mar 2021 15:58:31 ERROR    database does not exist
+Sat, 06 Mar 2021 16:01:45 ERROR    database does not exist
+Sat, 06 Mar 2021 16:03:23 INFO     connection database success
+Sat, 06 Mar 2021 16:14:14 INFO     connection database success
+Sat, 06 Mar 2021 16:14:35 INFO     4's rows loaded into database
+Sat, 06 Mar 2021 16:17:12 INFO     connection database success
+Sat, 06 Mar 2021 16:17:33 INFO     4's rows loaded into database
+Sat, 06 Mar 2021 16:18:49 INFO     connection database success
+Sat, 06 Mar 2021 16:19:04 INFO     4's rows loaded into database
+Sat, 06 Mar 2021 16:20:08 INFO     connection database success
+Sat, 06 Mar 2021 16:20:51 INFO     connection database success
+Sat, 06 Mar 2021 16:31:57 INFO     49999's rows loaded into database
