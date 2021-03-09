@@ -1,0 +1,13 @@
+Sun, 07 Mar 2021 14:59:1615100361 INFO     {'reason': 'notFound', 'message': 'Not found: Table commanding-day-304314:project_four.sales was not found in location US'}, new dataset created and begin extraction
+Sun, 07 Mar 2021 15:00:1615100452 INFO     {'reason': 'notFound', 'message': 'Not found: Table commanding-day-304314:project_four.sales was not found in location US'}, new dataset created and begin extraction
+Sun, 07 Mar 2021 15:01:1615100477 INFO     {'reason': 'notFound', 'message': 'Not found: Table commanding-day-304314:project_four.sales was not found in location US'}, new dataset created and begin extraction
+Sun, 07 Mar 2021 15:01:1615100481 INFO     parquet file succesfully load into cloudstorage
+Sun, 07 Mar 2021 16:49:1615106952 WARNING  Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff1dd1a7320>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',)': /token
+Sun, 07 Mar 2021 16:49:1615106952 WARNING  Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff1dd1a7588>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',)': /token
+Sun, 07 Mar 2021 16:49:1615106952 WARNING  Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff1dd1a76a0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',)': /token
+Sun, 07 Mar 2021 16:59:1615107594 INFO     {'reason': 'notFound', 'message': 'Not found: Table commanding-day-304314:project_four.sales was not found in location US'}, new dataset created and begin extraction
+Sun, 07 Mar 2021 16:59:1615107597 INFO     parquet file succesfully load into cloudstorage
+Sun, 07 Mar 2021 17:00:1615107610 INFO     dataset updated
+Sun, 07 Mar 2021 17:01:1615107691 INFO     bq dataset is not up to date to mysql, begin extraction
+Sun, 07 Mar 2021 17:01:1615107695 INFO     parquet file succesfully load into cloudstorage
+Sun, 07 Mar 2021 17:01:1615107706 INFO     dataset updated

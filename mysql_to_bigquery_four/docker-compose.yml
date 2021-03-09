@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  mysqltobigqueryfour:
+    image: mysqltobigqueryfour
+    build:
+      context: .
+      dockerfile: ./Dockerfile
