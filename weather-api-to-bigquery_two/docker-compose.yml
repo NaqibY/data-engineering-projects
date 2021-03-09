@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  project_one:
+    image: project_one
+    build:
+    volumes: 
+      - project_one: /home/naqib/Documents/git/ETL-ELT-Pipeline-Projects/
+      context: .
+      dockerfile: ./Dockerfile

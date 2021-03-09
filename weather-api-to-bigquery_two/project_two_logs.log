@@ -1,0 +1,5 @@
+Tue, 16 Feb 2021 22:12:1613484726 INFO     16384's of rows were succesfully loaded into new_7timer.FACT_weather
+Tue, 16 Feb 2021 22:12:1613484757 INFO     this ['DIM_prec_amount', 'DIM_lifted_index', 'DIM_wind_speed', 'DIM_cloud', 'DIM_rh', 'DIM_snow_depth'] dimensional tables are loaded into new_7timer 
+Sun, 28 Feb 2021 00:36:1614443788 INFO     16384's of rows were succesfully loaded into project_one.FACT_weather
+Sun, 28 Feb 2021 00:37:1614443846 INFO     this ['DIM_prec_amount', 'DIM_lifted_index', 'DIM_cloud', 'DIM_snow_depth', 'DIM_rh', 'DIM_wind_speed'] dimensional tables are loaded into project_one 
+
