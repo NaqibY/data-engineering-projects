@@ -1,0 +1,25 @@
+version: '3.4'
+
+services:
+  myapp:
+    image: etl_python
+    volumes:
+      - test-etl:/app
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+
+  mysql_target_db:
+    image: mysql
+    volumes: 
+      - mysql_test:/var/lib/mysql 
+    environment: 
+      MYSQL_HOST: mysql
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: sales_records
+      MYSQL_USER: mysql_test
+      MYSQL_PASSWORD: pass_word
+
+volumes:
+  mysql_test:
+  test-etl:
