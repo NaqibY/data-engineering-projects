@@ -44,10 +44,6 @@ Scrapy webpage : [here](https://scrapy.org/)
 
 Mongodb installation manual : [here](https://docs.mongodb.com/manual/installation/)
 
-### Crontab 
-
-If you're on Linux machine ,crontab is useful program to automate our ETL task. [crontab](https://linuxhandbook.com/crontab/)
-
 
 ## ETL process
   ![scrapy_flowchart](scrapy_flowchart.png)
@@ -94,6 +90,5 @@ see json file name ``mongoexport_2doc.json``
 [Mongodb documentation](https://docs.mongodb.com/manual/tutorial/)
 
 [Pymongo documentation](https://pymongo.readthedocs.io/en/stable/)
-
 
 [Scrapy tutorial](https://www.tutorialspoint.com/scrapy/index.htm)
