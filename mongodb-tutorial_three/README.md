@@ -75,6 +75,8 @@ Airflow installation manual : [here](https://airflow.apache.org/docs/apache-airf
 ## ETL process
 
 ### Task 1 
+![task_1flowchart](task_1flowchart.png)
+
 First task is quite straight forward ETL process where we take data from point a and place it to point b, we'll have staging and transformation process in between point.
 
 1. ``src.from_mongodb.py`` -> extract all data from city_inspection and zips collection, return it as list of document
@@ -92,9 +94,12 @@ First task is quite straight forward ETL process where we take data from point a
 6. ``src.to_gcs.py``-> convert transformed df to parquet file, load into cloud storage and bigquery.
 
 ### Task 2 
-In order to practice scheduling batch ingestion process, the code in this particular script are modified so its only extract bunch  of  documents/rows per-execute
 
-1. Suppose we want to start with a condition since its scheduled task, in ``project_three_2.py`` you may find a function called ``get_initial_id()``, what it does is to initiate the initial behaviour by determine if its on it first run. The function will act as sensor by getting _id from previous job if its exist and resume extraction after that particular id's row ,but if it is first run no file are in staging storage, it'll start at the beginning of document.
+![task_2flowchart](task_2flowchart.png)
+
+In order to practice scheduling batch ingestion process, the code in this particular script are modified so its only extracts bunch of documents/rows per-execute
+
+1. Suppose we want to start with a condition since its scheduled task, in ``project_three_2.py`` you may find a function called ``get_initial_id()``, what it does is to initiate the initial behaviour by determine if its on it first run. The function will act as sensor by getting _id from previous job if its exist and the id same as latest documents all process is terminate. if not, resume extraction after that particular id's row,but if it is first run no file in staging storage, it'll start at the beginning of document.
 
 2. ``src.from_mongodb.py`` -> extract 10000's of data from tripdata collection and return it as list of document
 
@@ -123,7 +128,11 @@ Make sure to add google api keys into local environment
 
 ``EXPORT GOOGLE_APPLICATION_CREDENTIALS='/local/path/google-keys.json'``
 
+Task 1
+
 Run this file ``project_three_1.py``
+
+Task 2
 
 configure crontab job like this, it'll execute script every day at 20:10 pm
 ```
