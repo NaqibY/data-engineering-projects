@@ -12,3 +12,9 @@ In this project, we want to explore the fundamental of the data engineering by b
 ## [Project 3 : Mongodb Tutorial](mongodb-tutorial_three/)
 
 ## [Project 4 : Mysql to Bigquery](mysql_to_bigquery_four/)
+
+## [Project 5 : Scraping phonedb data](webscrap-to-bigquery_five/)
+
+## [Project 6 : Streaming Pyspark](pyspark-streaming-from-filesystem_six/)
+
+## Project 7 : Kafka and Pyspark
