@@ -1,0 +1,602 @@
+{
+	"_id": {
+		"$oid": "60538f8719d8bf0af995d317"
+	},
+	"url": "https://phonedb.net/index.php?m=device&id=13546&c=huawei_honor_7s_dual_sim_lte_emea_dua-lx1__dua-l21__huawei_dura",
+	"Brand": "Huawei",
+	"Model": "Honor 7S Dual SIM LTE EMEA DUA-LX1 / DUA-L21",
+	"Released": "2018 Jun 28",
+	"Announced": "2018 Jun 27",
+	"Hardware Designer": "Huawei",
+	"Manufacturer": "Huawei",
+	"Codename": "Huawei Dura",
+	"General Extras": "Haptic touch feedback",
+	"Device Category": "Smartphone",
+	"Physical Attributes": {
+		"Width": "70.9 mm",
+		"Height": "146.5 mm",
+		"Depth": "8.3 mm",
+		"Dimensions": "2.79x5.77x0.33 inches",
+		"Mass": [
+			"142 g",
+			"5.01 ounces"
+		]
+	},
+	"Software Environment": {
+		"Platform": "Android",
+		"Operating System": "Google Android 8.1 (Oreo)",
+		"Software Extras": [
+			"Voice Command",
+			"Navigation software",
+			"Face Recognition"
+		]
+	},
+	"Application processor, Chipset": {
+		"CPU Clock": "1500 MHz",
+		"CPU": "MediaTek MT6739, 2017, 64 bit, quad-core, 32 Kbyte I-Cache, 32 Kbyte D-Cache, 28 nm, IMG PowerVR GE8100 GPU"
+	},
+	"Operative Memory": {
+		"RAM Type": [
+			"LPDDR3 SDRAM",
+			"667 MHz"
+		],
+		"RAM Capacity (converted)": [
+			"2 GiB RAM",
+			"1832 MiB user accessible RAM"
+		]
+	},
+	"Non-volatile Memory": {
+		"Non-volatile Memory Capacity (converted)": "16 GB ROM"
+	},
+	"Display": {
+		"Display Diagonal": [
+			"138.4 mm",
+			"5.4 inch"
+		],
+		"Resolution": "720x1440",
+		"Horizontal Full Bezel Width": "9.01 mm",
+		"Display Area Utilization": "73.8%",
+		"Pixel Density": "295 PPI",
+		"Display Type": "Color IPS TFT LCD",
+		"Number of Display Scales": "16.8M",
+		"Scratch Resistant Screen": "Yes"
+	},
+	"Graphical Subsystem": {
+		"Graphical Controller": "PowerVR Ge8100",
+		"GPU Clock": "570 MHz"
+	},
+	"Audio/Video Interfaces": {
+		"A/V Out": "No"
+	},
+	"Audio Subsystem": {
+		"Microphone(s)": "stereo",
+		"Loudpeaker(s)": "mono",
+		"Audio Output": "3.5mm"
+	},
+	"Cellular Phone": {
+		"Supported Cellular Bands": [
+			"GSM850",
+			"GSM900",
+			"GSM1800",
+			"GSM1900",
+			"UMTS2100 (B1)",
+			"UMTS850 (B5)",
+			"UMTS900 (B8)",
+			"LTE2100 (B1)",
+			"LTE1800 (B3)",
+			"LTE850 (B5)",
+			"LTE2600 (B7)",
+			"LTE900 (B8)",
+			"LTE800 (B20)"
+		],
+		"Supported Cellular Data Links": [
+			"GPRS",
+			"EDGE",
+			"UMTS",
+			"HSUPA",
+			"HSUPA 5.8",
+			"HSDPA",
+			"HSDPA 7.2",
+			"HSPA+ 21.1",
+			"DC-HSDPA 42.2",
+			"LTE",
+			"LTE 100/50",
+			"LTE 150/50"
+		],
+		"SIM Card Slot": "Nano-SIM (4FF)",
+		"Complementary Phone Services": [
+			"Voice transmission",
+			"Voice speaker",
+			"Vibrate",
+			"Speakerphone",
+			"ANC",
+			"HD Voice",
+			"VoLTE"
+		]
+	},
+	"Secondary Cellular Phone": {
+		"Dual Cellular Network Operation": "Dual standby",
+		"Secondary Supported Cellular Networks": [
+			"GSM850",
+			"GSM850",
+			"GSM850",
+			"GSM850",
+			"GSM850",
+			"GSM850",
+			"GSM850"
+		],
+		"Secondary Supported Cellular Data Links": [
+			"GPRS",
+			"GPRS",
+			"GPRS",
+			"GPRS",
+			"GPRS",
+			"GPRS"
+		],
+		"Secondary SIM Card Slot": "Nano-SIM (4FF)"
+	},
+	"Control Peripherals": {
+		"Touchscreen Type": "Capacitive multi-touch"
+	},
+	"Communication Interfaces": {
+		"Expansion Interfaces": [
+			"TransFlash",
+			"microSD",
+			"microSDHC",
+			"microSDXC"
+		],
+		"USB": [
+			"USB 2.0",
+			"USB HS (480 Mbps)"
+		],
+		"USB Services": [
+			"USB charging",
+			"USB fast charging",
+			"USB Host",
+			"USB OTG 1.3",
+			"USB PD"
+		],
+		"USB Connector": "USB Micro-AB",
+		"Bluetooth": "Bluetooth 4.2",
+		"Wireless LAN": [
+			"802.11b",
+			"802.11g",
+			"802.11n"
+		],
+		"Wireless Services": "Wi-Fi Tethering"
+	},
+	"Multimedia Broadcast": {
+		"FM Radio Receiver": "FM radio (88-108 MHz) with RDS"
+	},
+	"Satellite Navigation": {
+		"Complementary GPS Services": [
+			"Simultaneous GPS",
+			"A-GPS",
+			"Geotagging",
+			"QuickGPS"
+		],
+		"Supported GLONASS protocol(s)": "Yes"
+	},
+	"Primary Camera System": {
+		"Camera Placement": "Rear",
+		"Camera Image Sensor": "BSI CMOS",
+		"Number of effective pixels": "13.1 MP camera",
+		"Aperture (W)": "f/2.00",
+		"Zoom": [
+			"1.0 x optical zoom",
+			"4.0 x digital zoom"
+		],
+		"Focus": "PD AF",
+		"Video Recording": [
+			"1920x1080 pixel",
+			"30 fps"
+		],
+		"Flash": "single LED",
+		"Camera Extra Functions": [
+			"HDR photo",
+			"Burst mode",
+			"Touch focus",
+			"Macro mode",
+			"Panorama Photo",
+			"Face detection",
+			"Face tagging",
+			"Smile detection",
+			"Face retouch"
+		],
+		"Auxilary Camera Image Sensor": "No",
+		"Auxilary 2 Camera Image Sensor": "No",
+		"Auxilary 3 Camera Image Sensor": "No",
+		"Auxilary 4 Camera Image Sensor": "No"
+	},
+	"Secondary Camera System": {
+		"Secondary Camera Placement": "Front",
+		"Secondary Camera Sensor": "CMOS",
+		"Secondary Number of pixels": "5.0 MP 2nd cam",
+		"Secondary Aperture (W)": "f/2.20",
+		"Secondary Camera Extra Functions": [
+			"HDR photo",
+			"Burst mode",
+			"Panorama Photo",
+			"Face detection",
+			"Face tagging",
+			"Smile detection",
+			"Face retouch"
+		],
+		"Secondary Built-in Flash": "single LED",
+		"Secondary Auxilary Camera Image Sensor": "No"
+	},
+	"Built-in Sensors": {
+		"Built-in accelerometer": "Yes",
+		"Additional sensors": [
+			"L sensor",
+			"P sensor"
+		]
+	},
+	"Ingress Protection": {
+		"Protection from solid materials": "Yes",
+		"Protection from liquids": "Yes"
+	},
+	"Power Supply": {
+		"Battery": [
+			"Li-ion polymer (LiPo)",
+			"built-in",
+			"1-cell"
+		],
+		"Nominal Battery Capacity": "3020 mAh battery",
+		"Talk Time": "17.0 hours"
+	},
+	"Geographical Attributes": {
+		"Market Countries": [
+			"Czech",
+			"Germany",
+			"Hungary",
+			"Ireland",
+			"Italy",
+			"Poland",
+			"Romania",
+			"Russia",
+			"Spain",
+			"UAE",
+			"UK",
+			"Ukraine"
+		],
+		"Market Regions": [
+			"Eastern Europe",
+			"Europe",
+			"Middle East ",
+			"Western Europe"
+		],
+		"Mobile Operator": [
+			"Hutchison Three UK",
+			"Telekom Hungary"
+		]
+	},
+	"Datasheet Attributes": {
+		"Data Integrity": "Final",
+		"Added": "2018-06-28 18:11"
+	}
+}
+{
+	"_id": {
+		"$oid": "60538f8719d8bf0af995d319"
+	},
+	"url": "https://phonedb.net/index.php?m=device&id=13547&c=huawei_honor_play_standard_edition_dual_sim_td-lte_apac_cor-al00",
+	"Brand": "Huawei",
+	"Model": "Honor Play Standard Edition Dual SIM TD-LTE APAC COR-AL00",
+	"Released": "2018 Jul",
+	"Announced": "2018 Jun 6",
+	"Hardware Designer": "Huawei",
+	"Manufacturer": "Huawei",
+	"General Extras": "Haptic touch feedback",
+	"Device Category": "Smartphone",
+	"Physical Attributes": {
+		"Width": "74.27 mm",
+		"Height": "157.91 mm",
+		"Depth": "7.48 mm",
+		"Dimensions": "2.92x6.22x0.29 inches",
+		"Mass": [
+			"176 g",
+			"6.21 ounces"
+		]
+	},
+	"Software Environment": {
+		"Platform": "Android",
+		"Operating System": [
+			"Google Android 8.1 (Oreo)",
+			"EMUI 8.2"
+		],
+		"Software Extras": [
+			"Voice Command",
+			"Navigation software",
+			"Augmented Reality (AR)",
+			"Intelligent personal assistant",
+			"Voice Recognition",
+			"Face Recognition"
+		]
+	},
+	"Application processor, Chipset": {
+		"CPU Clock": "2360 MHz",
+		"CPU": "HiSilicon Honor KIRIN970, 2017, 64 bit, octa-core, 64 Kbyte I-Cache, 64 Kbyte D-Cache, 10 nm, ARM Mali-G72 GPU"
+	},
+	"Operative Memory": {
+		"RAM Type": [
+			"LPDDR4 SDRAM",
+			"1866 MHz"
+		],
+		"RAM Capacity (converted)": [
+			"4 GiB RAM",
+			"3702 MiB user accessible RAM"
+		]
+	},
+	"Non-volatile Memory": {
+		"Non-volatile Memory Capacity (converted)": "64 GB ROM"
+	},
+	"Display": {
+		"Display Notch": "1-notch",
+		"Display Diagonal": [
+			"160 mm",
+			"6.3 inch"
+		],
+		"Resolution": "1080x2340",
+		"Horizontal Full Bezel Width": "7.22 mm",
+		"Display Area Utilization": "83.1%",
+		"Pixel Density": "409 PPI",
+		"Display Type": "Color IPS TFT LCD",
+		"Number of Display Scales": "16.8M",
+		"Scratch Resistant Screen": "Gorilla Glass 5"
+	},
+	"Graphical Subsystem": {
+		"Graphical Controller": "ARM Mali-G72MP12",
+		"GPU Clock": "767 MHz"
+	},
+	"Audio/Video Interfaces": {
+		"A/V Out": "No"
+	},
+	"Audio Subsystem": {
+		"Microphone(s)": "stereo",
+		"Loudpeaker(s)": "stereo",
+		"Audio Output": "3.5mm"
+	},
+	"Cellular Phone": {
+		"Supported Cellular Bands": [
+			"GSM850",
+			"GSM900",
+			"GSM1800",
+			"GSM1900",
+			"UMTS2100 (B1)",
+			"UMTS850 (B5)",
+			"UMTS900 (B8)",
+			"CDMA800 (BC0)",
+			"TD-SCDMA2000",
+			"TD-SCDMA1900",
+			"LTE2100 (B1)",
+			"LTE1800 (B3)",
+			"LTE850 (B5)",
+			"LTE900 (B8)",
+			"TD-LTE2000 (B34)",
+			"TD-LTE2600 (B38)",
+			"TD-LTE1900 (B39)",
+			"TD-LTE2300 (B40)",
+			"TD-LTE2500 (B41)"
+		],
+		"Supported Cellular Data Links": [
+			"GPRS",
+			"EDGE",
+			"UMTS",
+			"HSUPA",
+			"HSUPA 5.8",
+			"HSDPA",
+			"HSPA+ 21.1",
+			"DC-HSDPA 42.2",
+			"cdmaOne",
+			"CDMA2000 1x",
+			"CDMA2000 1xEV-DO",
+			"CDMA2000 1xEV-DO Rev A",
+			"TD-SCDMA",
+			"TD-HSDPA",
+			"LTE",
+			"LTE 100/50",
+			"LTE 150/50",
+			"LTE 300/50"
+		],
+		"SIM Card Slot": "Nano-SIM (4FF)",
+		"Complementary Phone Services": [
+			"Voice transmission",
+			"Voice speaker",
+			"Vibrate",
+			"Speakerphone",
+			"ANC",
+			"HD Voice",
+			"VoLTE"
+		]
+	},
+	"Secondary Cellular Phone": {
+		"Dual Cellular Network Operation": "Dual standby",
+		"Secondary Supported Cellular Networks": [
+			"GSM850",
+			"GSM850",
+			"GSM850",
+			"GSM850",
+			"GSM850",
+			"GSM850",
+			"GSM850",
+			"GSM850",
+			"GSM850",
+			"GSM850",
+			"GSM850",
+			"GSM850",
+			"GSM850",
+			"GSM850",
+			"GSM850",
+			"GSM850"
+		],
+		"Secondary Supported Cellular Data Links": [
+			"GPRS",
+			"GPRS",
+			"GPRS",
+			"GPRS",
+			"GPRS",
+			"GPRS",
+			"GPRS",
+			"GPRS",
+			"GPRS",
+			"GPRS"
+		],
+		"Secondary SIM Card Slot": "Nano-SIM (4FF)"
+	},
+	"Control Peripherals": {
+		"Touchscreen Type": "Capacitive multi-touch"
+	},
+	"Communication Interfaces": {
+		"Expansion Interfaces": [
+			"TransFlash",
+			"microSD",
+			"microSDHC",
+			"microSDXC"
+		],
+		"USB": [
+			"USB 2.0",
+			"USB HS (480 Mbps)"
+		],
+		"USB Services": [
+			"USB charging",
+			"USB fast charging",
+			"USB Host",
+			"USB OTG 1.3",
+			"USB OTG 2.0",
+			"USB PD"
+		],
+		"USB Connector": "USB C reversible",
+		"Bluetooth": "Bluetooth 4.2",
+		"Wireless LAN": [
+			"802.11a",
+			"802.11b",
+			"802.11g",
+			"802.11n",
+			"802.11ac"
+		],
+		"Wireless Services": [
+			"Wi-Fi Direct",
+			"Wi-Fi Tethering"
+		],
+		"NFC": [
+			"NFC A",
+			"NFC B"
+		]
+	},
+	"Multimedia Broadcast": {
+		"FM Radio Receiver": "No"
+	},
+	"Satellite Navigation": {
+		"Complementary GPS Services": [
+			"Simultaneous GPS",
+			"A-GPS",
+			"Geotagging",
+			"QuickGPS"
+		],
+		"Supported GLONASS protocol(s)": "Yes",
+		"Supported Galileo service(s)": "Yes",
+		"Supported BeiDou system (BDS)": "BeiDou-2"
+	},
+	"Primary Camera System": {
+		"Camera Placement": "Rear",
+		"Camera Image Sensor": "BSI CMOS",
+		"Number of effective pixels": "15.9 MP camera",
+		"Aperture (W)": "f/2.20",
+		"Focus": "PD AF",
+		"Video Recording": [
+			"3840x2160 pixel",
+			"30 fps"
+		],
+		"Flash": "single LED",
+		"Camera Extra Functions": [
+			"EIS",
+			"EIS (video)",
+			"HDR photo",
+			"HDR video",
+			"Red-eye reduction",
+			"Slow motion video",
+			"Burst mode",
+			"Refocus",
+			"Touch focus",
+			"Macro mode",
+			"Panorama Photo",
+			"Face detection",
+			"Face tagging",
+			"Smile detection",
+			"Face retouch",
+			"Face retouch (video)",
+			"Intelligent scene detection"
+		],
+		"Auxiliary Camera Resolution": "1.9 MP aux. cam",
+		"Auxilary Camera Image Sensor": "CMOS",
+		"Auxilary Camera Aperture (W)": "f/2.40",
+		"Auxilary 2 Camera Image Sensor": "No",
+		"Auxilary 3 Camera Image Sensor": "No",
+		"Auxilary 4 Camera Image Sensor": "No"
+	},
+	"Secondary Camera System": {
+		"Secondary Camera Placement": "Front",
+		"Secondary Camera Sensor": "BSI CMOS",
+		"Secondary Number of pixels": "15.9 MP 2nd cam",
+		"Secondary Aperture (W)": "f/2.00",
+		"Secondary Video Recording": [
+			"2160x1064 pixel",
+			"30 fps"
+		],
+		"Secondary Camera Extra Functions": [
+			"HDR photo",
+			"HDR video",
+			"Burst mode",
+			"Panorama Photo",
+			"Face detection",
+			"Face tagging",
+			"Smile detection",
+			"Face retouch",
+			"Face retouch (video)",
+			"Intelligent scene detection"
+		],
+		"Secondary Auxilary Camera Image Sensor": "No"
+	},
+	"Built-in Sensors": {
+		"Built-in compass": "3D",
+		"Built-in accelerometer": "3D",
+		"Built-in gyroscope": "3D",
+		"Additional sensors": [
+			"FP sensor",
+			"L sensor",
+			"P sensor"
+		]
+	},
+	"Ingress Protection": {
+		"Protection from solid materials": "Yes",
+		"Protection from liquids": "Yes"
+	},
+	"Power Supply": {
+		"Battery": [
+			"Li-ion polymer (LiPo)",
+			"built-in",
+			"1-cell"
+		],
+		"Nominal Battery Capacity": "3750 mAh battery"
+	},
+	"Geographical Attributes": {
+		"Market Countries": [
+			"China",
+			"HK",
+			"India"
+		],
+		"Market Regions": [
+			"Asia",
+			"Southeast Asia"
+		],
+		"Mobile Operator": [
+			"China Telecom Corporation Limited",
+			"China Unicom Netcom Limited"
+		]
+	},
+	"Datasheet Attributes": {
+		"Data Integrity": "Preliminary",
+		"Added": "2018-06-28 18:28"
+	}
+}
