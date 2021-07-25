@@ -62,6 +62,8 @@ If you're on Linux machine ,crontab is useful program to automate our ETL task. 
 Airflow installation manual : [here](https://airflow.apache.org/docs/apache-airflow/stable/installation.html)
 
 ## ETL process
+  ![api_chart](api_flowchart.png)
+
 
 The process will be set to run on every week 
 
