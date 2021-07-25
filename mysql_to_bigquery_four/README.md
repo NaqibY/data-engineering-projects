@@ -50,6 +50,7 @@ If you're on Linux machine ,crontab is useful program to automate our ETL task. 
 Airflow installation manual : [here](https://airflow.apache.org/docs/apache-airflow/stable/installation.html)
 
 ## ETL process
+![mysqlflowchart](mysql_flowchart.png)
 
 In order to practice scheduling batch ingestion process, the code in this particular script are modified so its only extract bunch of rows per-execute.
 
@@ -62,7 +63,7 @@ In order to practice scheduling batch ingestion process, the code in this partic
 
 4. The data source are already denormalised, bigquery will automatically detect schema in parquet file.
    
-5. ``src.to_gcs.py`` -> load json file into staging, cloud storage only if ''check_dataset()'' return 'ready'.
+5. ``src.to_gcs.py`` -> load parquet file into staging, cloud storage only if ''check_dataset()'' return 'ready'.
    
 6. ```src.logging.py``` -> logs the process.
 
@@ -71,7 +72,7 @@ In order to practice scheduling batch ingestion process, the code in this partic
 
 The dags was created by combining two project, first part above check_dataset are from project one where we make it load by part instead of bulk. the second part are from project four. Both process extract at different frequency where the tasks at second part, load to data warehouse will process less data compared to database side in the same dag. This was purposely design so that we can simulate how their dependent between each other, vendor and data engineer.Dataset always keeping up to date to database. 
 
-![airflowgraph](data/../dags/graphview.png)
+![airflowgraph](data/../dags/graphview1.png)
 
 ## How to use
 
