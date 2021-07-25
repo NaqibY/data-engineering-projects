@@ -72,7 +72,7 @@ In order to practice scheduling batch ingestion process, the code in this partic
 
 The dags was created by combining two project, first part above check_dataset are from project one where we make it load by part instead of bulk. the second part are from project four. Both process extract at different frequency where the tasks at second part, load to data warehouse will process less data compared to database side in the same dag. This was purposely design so that we can simulate how their dependent between each other, vendor and data engineer.Dataset always keeping up to date to database. 
 
-![airflowgraph](data/../dags/graphview1.png)
+![airflowgraph](data/../dags/graphview.png)
 
 ## How to use
 
